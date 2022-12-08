@@ -1,0 +1,21 @@
+{
+  "name": "react-extensions-pack-kld",
+  "displayName": "React Extensions Pack - KLD",
+  "description": "Extensions for React development environment",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "clinyong.vscode-css-modules",
+    "dsznajder.es7-react-js-snippets",
+    "unifiedjs.vscode-mdx",
+    "Prisma.prisma",
+    "msjsdiag.vscode-react-native",
+    "ugross.vscode-react-snippets",
+    "styled-components.vscode-styled-components"
+  ]
+}
