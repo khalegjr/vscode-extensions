@@ -1,0 +1,21 @@
+{
+  "name": "html_css-extensions-pack-kld",
+  "displayName": "HTML & CSS Extensions Pack - KLD",
+  "description": "Extensions for HTML & CSS development environment",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "pranaygp.vscode-css-peek",
+    "felixfbecker.css-stacking-contexts",
+    "vincaslt.highlight-matching-tag",
+    "sidthesloth.html5-boilerplate",
+    "ecmel.vscode-html-css",
+    "HTMLHint.vscode-htmlhint",
+    "Zignd.html-css-class-completion"
+  ]
+}
