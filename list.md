@@ -77,17 +77,6 @@ connorshea.vscode-ruby-test-adapter
 swellaby.vscode-rust-test-adapter
 YouneselBarnoussi.vscode-behave-test-adapter
 
-## AWS
-ms-vscode.vscode-node-azure-pack
-  ms-vscode.azure-account
-  ms-azuretools.vscode-azureappservice
-  ms-azuretools.vscode-cosmosdb
-  ms-azuretools.azure-dev
-  ms-azuretools.vscode-azurefunctions
-  ms-azuretools.vscode-azureresourcegroups
-  ms-azuretools.vscode-azurestaticwebapps
-  ms-azuretools.vscode-azurevirtualmachines
-
 ## Python
 ms-python.python
 EricSia.pythonsnippets3
@@ -167,17 +156,6 @@ dustypomerleau.rust-syntax
 rust-lang.rust-analyzer
 swellaby.vscode-rust-test-adapter
 
-## Icons
-BeardedBear.beardedicons
-PKief.material-icon-theme
-equinusocio.vsc-material-theme-icons
-
-## Themes
-BeardedBear.beardedtheme
-uloco.theme-bluloco-dark
-Catppuccin.catppuccin-vsc
-Rajeshwaran.developer-theme-dark
-
 ## Tailwind
 csstools.postcss
 bradlc.vscode-tailwindcss
@@ -188,6 +166,29 @@ samuelcolvin.jinjahtml
 
 ## GO
 golang.go
+
+## Icons
+BeardedBear.beardedicons
+PKief.material-icon-theme
+equinusocio.vsc-material-theme-icons
+
+## Themes
+BeardedBear.beardedtheme
+uloco.theme-bluloco-dark
+Catppuccin.catppuccin-vsc
+Rajeshwaran.developer-theme-dark
+dracula-theme.theme-dracula
+
+## AWS
+ms-vscode.vscode-node-azure-pack
+  ms-vscode.azure-account
+  ms-azuretools.vscode-azureappservice
+  ms-azuretools.vscode-cosmosdb
+  ms-azuretools.azure-dev
+  ms-azuretools.vscode-azurefunctions
+  ms-azuretools.vscode-azureresourcegroups
+  ms-azuretools.vscode-azurestaticwebapps
+  ms-azuretools.vscode-azurevirtualmachines
 
 ## Manuais
 ### Sem categoria (uso esporádico)
