@@ -18,5 +18,6 @@ Serve, também, para ativação/desativação rápida desse ambiente.
 * [Karma Test Explorer (for Angular, Jasmine, and Mocha)](https://marketplace.visualstudio.com/items?itemName=lucono.karma-test-explorer)
 * [Ruby Test Explorer](https://marketplace.visualstudio.com/items?itemName=connorshea.vscode-ruby-test-adapter)
 * [Rust Test Explorer](https://marketplace.visualstudio.com/items?itemName=swellaby.vscode-rust-test-adapter)
+* [Behave Test Explorer](https://marketplace.visualstudio.com/items?itemName=YouneselBarnoussi.vscode-behave-test-adapter)
 
 **Enjoy!**

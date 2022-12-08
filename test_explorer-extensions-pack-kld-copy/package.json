@@ -19,6 +19,7 @@
     "kavod-io.vscode-jest-test-adapter",
     "lucono.karma-test-explorer",
     "connorshea.vscode-ruby-test-adapter",
-    "swellaby.vscode-rust-test-adapter"
+    "swellaby.vscode-rust-test-adapter",
+    "YouneselBarnoussi.vscode-behave-test-adapter"
   ]
 }
