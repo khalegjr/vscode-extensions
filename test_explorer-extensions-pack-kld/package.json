@@ -1,7 +1,7 @@
 {
-  "name": "rust-extensions-pack-kld",
-  "displayName": "Rust Extensions Pack - KLD",
-  "description": "Extensions for Rust development environment",
+  "name": "test-explorer-extensions-pack-kld",
+  "displayName": "Test Explorer Extensions Pack - KLD",
+  "description": "Extensions for Test Explorer development environment",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.74.0"
