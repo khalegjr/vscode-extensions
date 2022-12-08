@@ -1,0 +1,21 @@
+{
+  "name": "laravel-extensions-pack-kld",
+  "displayName": "Laravel Extensions Pack - KLD",
+  "description": "Extensions for Laravel development environment",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "absszero.vscode-laravel-goto",
+    "onecentlin.laravel5-snippets",
+    "shufo.vscode-blade-formatter",
+    "onecentlin.laravel-blade",
+    "austenc.laravel-blade-spacer",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "cierra.livewire-vscode"
+  ]
+}
