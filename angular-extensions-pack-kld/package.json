@@ -1,0 +1,19 @@
+{
+  "name": "angular-extensions-pack-kld",
+  "displayName": "Angular Extensions Pack - KLD",
+  "description": "Extensions for Angular development environment",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Angular.ng-template",
+    "johnpapa.Angular2",
+    "lucono.karma-test-explorer",
+    "rctay.karma-problem-matcher",
+    "SimonTest.simontest"
+  ]
+}
