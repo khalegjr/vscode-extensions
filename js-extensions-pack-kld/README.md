@@ -20,5 +20,7 @@ Serve, também, para ativação/desativação rápida desse ambiente.
 * [TypeScript Error Translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
 * [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 * [CSS-in-JS](https://marketplace.visualstudio.com/items?itemName=paulmolluzzo.convert-css-in-js)
+* [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+* [Split HTML Attributes (Vue, React, Angular)](https://marketplace.visualstudio.com/items?itemName=dannyconnell.split-html-attributes)
 
 **Enjoy!**

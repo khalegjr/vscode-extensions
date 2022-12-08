@@ -21,6 +21,8 @@
     "sketchbuch.vsc-quokka-statusbar",
     "mattpocock.ts-error-translator",
     "rbbit.typescript-hero",
-    "paulmolluzzo.convert-css-in-js"
+    "paulmolluzzo.convert-css-in-js",
+    "steoates.autoimport",
+    "liamhammett.inline-parameters"
   ]
 }
