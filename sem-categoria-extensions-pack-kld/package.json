@@ -1,0 +1,33 @@
+{
+  "name": "tailwindcss-extensions-pack-kld",
+  "displayName": "Tailwindcss Extensions Pack - KLD",
+  "description": "Extensions for Tailwindcss development environment",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "appland.appmap",
+    "cweijan.vscode-database-client2",
+    "alexcvzz.vscode-sqlite",
+    "RandomFractalsInc.geo-data-viewer",
+    "GraphQL.vscode-graphql-execution",
+    "GraphQL.vscode-graphql",
+    "GraphQL.vscode-graphql-syntax",
+    "RandomFractalsInc.vscode-data-preview",
+    "quicktype.quicktype",
+    "pnp.polacode",
+    "mechatroner.rainbow-csv",
+    "chrmarti.regex",
+    "SimonSiefke.svg-preview",
+    "kaisun.vscodevimacademy",
+    "usernamehw.errorlens",
+    "rangav.vscode-thunder-client",
+    "ritwickdey.LiveServer",
+    "ryanluker.vscode-coverage-gutters",
+    "HansUXdev.bootstrap5-snippets"
+  ]
+}
