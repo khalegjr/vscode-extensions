@@ -1,7 +1,7 @@
 {
-  "name": "tailwindcss-extensions-pack-kld",
-  "displayName": "Tailwindcss Extensions Pack - KLD",
-  "description": "Extensions for Tailwindcss development environment",
+  "name": "sem-categoria-extensions-pack-kld",
+  "displayName": "Sem Categoria Extensions Pack - KLD",
+  "description": "Extensions for Several developments environments",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.74.0"
