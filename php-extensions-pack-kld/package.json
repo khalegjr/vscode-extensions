@@ -1,0 +1,22 @@
+{
+  "name": "php-extensions-pack-kld",
+  "displayName": "PHP Extensions Pack - KLD",
+  "description": "Extensions for PHP development environment",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "m1guelpf.better-pest",
+    "dansysanalyst.pest-snippets",
+    "junstyle.php-cs-fixer",
+    "xdebug.php-debug",
+    "bmewburn.vscode-intelephense-client",
+    "rexshi.phpdoc-comment-vscode-plugin",
+    "emallin.phpunit",
+    "recca0120.vscode-phpunit"
+  ]
+}
