@@ -16,5 +16,6 @@ Serve, também, para ativação/desativação rápida desse ambiente.
 * [Better Pest](https://marketplace.visualstudio.com/items?itemName=m1guelpf.better-pest)
 * [Pest Snippets](https://marketplace.visualstudio.com/items?itemName=dansysanalyst.pest-snippets)
 * [PHPUnit Test Explorer](https://marketplace.visualstudio.com/items?itemName=recca0120.vscode-phpunit)
+* [Inline Parameters for VSCode](https://marketplace.visualstudio.com/items?itemName=liamhammett.inline-parameters)
 
 **Enjoy!**
