@@ -1,0 +1,16 @@
+{
+  "name": "vue-extensions-pack-kld",
+  "displayName": "Vue Extensions Pack - KLD",
+  "description": "Extensions for Vue development environment",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Vue.volar",
+    "octref.vetur"
+  ]
+}
