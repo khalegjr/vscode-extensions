@@ -11,6 +11,7 @@
   ],
   "extensionPack": [
     "Vue.volar",
-    "octref.vetur"
+    "octref.vetur",
+    "dannyconnell.split-html-attributes"
   ]
 }

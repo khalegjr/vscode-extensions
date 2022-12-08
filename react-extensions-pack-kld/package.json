@@ -16,6 +16,7 @@
     "Prisma.prisma",
     "msjsdiag.vscode-react-native",
     "ugross.vscode-react-snippets",
-    "styled-components.vscode-styled-components"
+    "styled-components.vscode-styled-components",
+    "dannyconnell.split-html-attributes"
   ]
 }

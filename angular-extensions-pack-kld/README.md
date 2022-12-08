@@ -13,5 +13,6 @@ Serve, também, para ativação/desativação rápida desse ambiente.
 * [Karma Test Explorer (for Angular, Jasmine, and Mocha)](https://marketplace.visualstudio.com/items?itemName=lucono.karma-test-explorer)
 * [Karma Problem Matcher](https://marketplace.visualstudio.com/items?itemName=rctay.karma-problem-matcher)
 * [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest)
+* [Split HTML Attributes (Vue, React, Angular)](https://marketplace.visualstudio.com/items?itemName=dannyconnell.split-html-attributes)
 
 **Enjoy!**

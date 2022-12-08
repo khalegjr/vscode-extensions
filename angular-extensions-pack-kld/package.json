@@ -14,6 +14,7 @@
     "johnpapa.Angular2",
     "lucono.karma-test-explorer",
     "rctay.karma-problem-matcher",
-    "SimonTest.simontest"
+    "SimonTest.simontest",
+    "dannyconnell.split-html-attributes"
   ]
 }
