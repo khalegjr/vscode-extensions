@@ -13,8 +13,11 @@
     "ms-python.python",
     "EricSia.pythonsnippets3",
     "ms-python.vscode-pylance",
-    "LittleFoxTeam.vscode-python-test-adapter",
     "donjayamanne.python-environment-manager",
-    "njpwerner.autodocstring"
+    "njpwerner.autodocstring",
+    "bungcip.better-toml",
+    "ms-python.flake8",
+    "ms-python.isort",
+    "pamaron.pytest-runner"
   ]
 }
