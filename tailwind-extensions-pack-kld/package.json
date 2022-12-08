@@ -1,0 +1,17 @@
+{
+  "name": "tailwindcss-extensions-pack-kld",
+  "displayName": "Tailwindcss Extensions Pack - KLD",
+  "description": "Extensions for Tailwindcss development environment",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "csstools.postcss",
+    "bradlc.vscode-tailwindcss",
+    "bourhaouta.tailwindshades"
+  ]
+}
