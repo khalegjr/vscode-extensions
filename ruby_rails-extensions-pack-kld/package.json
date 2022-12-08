@@ -1,0 +1,21 @@
+{
+  "name": "ruby-rails-extensions-pack-kld",
+  "displayName": "Ruby/Rails Extensions Pack - KLD",
+  "description": "Extensions for Ruby/Rails development environment",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bung87.rails",
+    "bung87.vscode-gemfile",
+    "rebornix.ruby",
+    "Hridoy.rails-snippets",
+    "castwide.solargraph",
+    "connorshea.vscode-ruby-test-adapter",
+    "sianglim.slim"
+  ]
+}
