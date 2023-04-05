@@ -1,4 +1,5 @@
 ## Angular
+
 Angular.ng-template
 johnpapa.Angular2
 rctay.karma-problem-matcher
@@ -6,11 +7,13 @@ SimonTest.simontest
 dannyconnell.split-html-attributes
 
 ## LiveShare
+
 ms-vsliveshare.vsliveshare-pack
   ms-vsliveshare.vsliveshare
   ms-vsliveshare.vsliveshare-audio
 
 ## Geral
+
 streetsidesoftware.code-spell-checker
 streetsidesoftware.code-spell-checker-portuguese-brazilian
 redhat.fabric8-analytics
@@ -21,6 +24,8 @@ alefragnani.Bookmarks
 nhoizey.gremlins
 oderwat.indent-rainbow
 yzhang.markdown-all-in-one
+DavidAnson.vscode-markdownlint
+bierner.markdown-preview-github-styles
 IBM.output-colorizer
 christian-kohler.path-intellisense
 johnpapa.vscode-peacock
@@ -35,15 +40,13 @@ WakaTime.vscode-wakatime
 redhat.vscode-xml
 redhat.vscode-yaml
 mrmlnc.vscode-duplicate
-Wscats.emoji
 tombonnike.vscode-status-bar-format-toggle
 wmaurer.change-case
 Cardinal90.multi-cursor-case-preserve
 kamikillerto.vscode-colorize
 anseki.vscode-color
-ms-azuretools.vscode-docker
-p1c2u.docker-compose
 bladnman.auto-align
+chouzz.vscode-better-align
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 mhutchie.git-graph
