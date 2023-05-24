@@ -1,0 +1,17 @@
+{
+  "name": "c-extensions-pack-kld",
+  "displayName": "C / C# Extensions Pack - KLD",
+  "description": "Extensions for C / C# development environment",
+  "version": "0.2.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-dotnettools.csharp",
+    "ms-vscode.makefile-tools",
+    "josefpihrt-vscode.roslynator"
+  ]
+}
