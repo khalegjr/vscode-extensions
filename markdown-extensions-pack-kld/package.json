@@ -1,0 +1,17 @@
+{
+  "name": "markdown-extensions-pack-kld",
+  "displayName": "Markdown Extensions Pack - KLD",
+  "description": "Extensions for Markdown development environment",
+  "version": "0.2.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-preview-github-styles",
+    "DavidAnson.vscode-markdownlint"
+  ]
+}
