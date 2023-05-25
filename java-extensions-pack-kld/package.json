@@ -1,0 +1,17 @@
+{
+  "name": "java-extensions-pack-kld",
+  "displayName": "Java Extensions Pack - KLD",
+  "description": "Extensions for Java development environment",
+  "version": "0.2.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "vscjava.vscode-java-pack",
+    "shengchen.vscode-checkstyle",
+    "vmware.vscode-boot-dev-pack"
+  ]
+}
