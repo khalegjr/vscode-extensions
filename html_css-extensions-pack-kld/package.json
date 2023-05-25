@@ -10,6 +10,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "clinyong.vscode-css-modules",
     "pranaygp.vscode-css-peek",
     "felixfbecker.css-stacking-contexts",
     "vincaslt.highlight-matching-tag",
