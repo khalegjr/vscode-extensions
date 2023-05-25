@@ -10,14 +10,12 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "ms-python.python",
-    "EricSia.pythonsnippets3",
-    "ms-python.vscode-pylance",
-    "donjayamanne.python-environment-manager",
     "njpwerner.autodocstring",
-    "bungcip.better-toml",
     "ms-python.flake8",
     "ms-python.isort",
-    "pamaron.pytest-runner"
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "EricSia.pythonsnippets3",
+    "donjayamanne.python-environment-manager"
   ]
 }
