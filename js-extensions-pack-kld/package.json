@@ -2,7 +2,7 @@
   "name": "js-extensions-pack-kld",
   "displayName": "Javascript Extensions Pack - KLD",
   "description": "Extensions for Javascript development environment",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -10,19 +10,18 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "steoates.autoimport",
     "WallabyJs.console-ninja",
+    "paulmolluzzo.convert-css-in-js",
     "dbaeumer.vscode-eslint",
     "capaj.vscode-exports-autocomplete",
     "wix.vscode-import-cost",
-    "hbenl.vscode-jasmine-test-adapter",
     "xabikos.JavaScriptSnippets",
+    "stringham.move-ts",
     "christian-kohler.npm-intellisense",
-    "WallabyJs.quokka-vscode",
+    "yoavbls.pretty-ts-errors",
     "sketchbuch.vsc-quokka-statusbar",
-    "mattpocock.ts-error-translator",
-    "rbbit.typescript-hero",
-    "paulmolluzzo.convert-css-in-js",
-    "steoates.autoimport",
-    "liamhammett.inline-parameters"
+    "WallabyJs.quokka-vscode",
+    "mattpocock.ts-error-translator"
   ]
 }
