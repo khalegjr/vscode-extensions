@@ -2,7 +2,7 @@
   "name": "vue-extensions-pack-kld",
   "displayName": "Vue Extensions Pack - KLD",
   "description": "Extensions for Vue development environment",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -10,8 +10,8 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "Vue.volar",
-    "octref.vetur",
-    "dannyconnell.split-html-attributes"
+    "dannyconnell.split-html-attributes",
+    "Vue.vscode-typescript-vue-plugin",
+    "Vue.volar"
   ]
 }
