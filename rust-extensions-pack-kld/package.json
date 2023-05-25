@@ -11,7 +11,6 @@
   ],
   "extensionPack": [
     "dustypomerleau.rust-syntax",
-    "rust-lang.rust-analyzer",
-    "swellaby.vscode-rust-test-adapter"
+    "rust-lang.rust-analyzer"
   ]
 }
