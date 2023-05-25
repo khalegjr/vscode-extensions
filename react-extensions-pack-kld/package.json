@@ -2,7 +2,7 @@
   "name": "react-extensions-pack-kld",
   "displayName": "React Extensions Pack - KLD",
   "description": "Extensions for React development environment",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -16,7 +16,7 @@
     "Prisma.prisma",
     "msjsdiag.vscode-react-native",
     "ugross.vscode-react-snippets",
-    "styled-components.vscode-styled-components",
-    "dannyconnell.split-html-attributes"
+    "dannyconnell.split-html-attributes",
+    "styled-components.vscode-styled-components"
   ]
 }

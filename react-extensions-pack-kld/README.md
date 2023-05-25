@@ -14,7 +14,7 @@ Serve, também, para ativação/desativação rápida desse ambiente.
 * [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma)
 * [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
 * [React Snippets](https://marketplace.visualstudio.com/items?itemName=ugross.vscode-react-snippets)
-* [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
 * [Split HTML Attributes (Vue, React, Angular)](https://marketplace.visualstudio.com/items?itemName=dannyconnell.split-html-attributes)
+* [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
 
 **Enjoy!**
