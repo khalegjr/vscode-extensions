@@ -10,12 +10,12 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "absszero.vscode-laravel-goto",
-    "onecentlin.laravel5-snippets",
     "shufo.vscode-blade-formatter",
     "onecentlin.laravel-blade",
     "austenc.laravel-blade-spacer",
     "amiralizadeh9480.laravel-extra-intellisense",
+    "absszero.vscode-laravel-goto",
+    "onecentlin.laravel5-snippets",
     "cierra.livewire-vscode"
   ]
 }
