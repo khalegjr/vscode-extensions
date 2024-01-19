@@ -1,8 +1,8 @@
 {
   "name": "angular-extensions-pack-kld",
-  "displayName": "Angular Extensions Pack - KLD",
+  "displayName": "Extensions Pack KhaleDev - Angular",
   "description": "Extensions for Angular development environment",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -10,17 +10,17 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "john-crowson.angular-file-changer",
-    "alexiv.vscode-angular2-files",
-    "Angular.ng-template",
-    "1tontech.angular-material",
-    "cyrilletuzi.angular-schematics",
     "johnpapa.Angular2",
-    "segerdekort.angular-cli",
+    "Angular.ng-template",
     "infinity1207.angular2-switcher",
-    "obenjiro.arrr",
-    "rctay.karma-problem-matcher",
     "SimonTest.simontest",
+    "stringham.move-ts",
+    "cyrilletuzi.angular-schematics",
+    "rctay.karma-problem-matcher",
+    "alexiv.vscode-angular2-files",
+    "obenjiro.arrr",
+    "john-crowson.angular-file-changer",
+    "segerdekort.angular-cli",
     "dannyconnell.split-html-attributes"
   ]
 }
