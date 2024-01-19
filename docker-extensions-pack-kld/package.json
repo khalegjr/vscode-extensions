@@ -1,8 +1,8 @@
 {
   "name": "docker-extensions-pack-kld",
-  "displayName": "Docker Extensions Pack - KLD",
-  "description": "Extensions for Docker development environment",
-  "version": "0.2.0",
+  "displayName": "Extensions Pack KhaleDev - Docker and Kubernetes",
+  "description": "Extensions for Docker and Kubernetes development environment",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -11,6 +11,7 @@
   ],
   "extensionPack": [
     "ms-azuretools.vscode-docker",
-    "p1c2u.docker-compose"
+    "p1c2u.docker-compose",
+    "ms-kubernetes-tools.vscode-kubernetes-tools"
   ]
 }
