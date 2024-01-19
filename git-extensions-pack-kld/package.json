@@ -1,8 +1,8 @@
 {
   "name": "git-extensions-pack-kld",
-  "displayName": "Git Extensions Pack - KLD",
+  "displayName": "Extensions Pack KhaleDev - Git, GitHub, GitLab",
   "description": "Extensions for Git environment",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -11,13 +11,11 @@
   ],
   "extensionPack": [
     "adam-bender.commit-message-editor",
-    "PsykoSoldi3r.vscode-git-flow",
     "mhutchie.git-graph",
     "donjayamanne.githistory",
-    "cschleiden.vscode-github-actions",
-    "ms-vscode.vscode-github-issue-notebooks",
-    "GitHub.vscode-pull-request-github",
+    "eamodio.gitlens",
     "codezombiech.gitignore",
-    "eamodio.gitlens"
+    "cschleiden.vscode-github-actions",
+    "PsykoSoldi3r.vscode-git-flow"
   ]
 }
