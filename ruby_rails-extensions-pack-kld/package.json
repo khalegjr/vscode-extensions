@@ -1,8 +1,8 @@
 {
   "name": "ruby-rails-extensions-pack-kld",
-  "displayName": "Ruby/Rails Extensions Pack - KLD",
+  "displayName": "Extensions Pack KhaleDev - Ruby/Rails",
   "description": "Extensions for Ruby/Rails development environment",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -11,10 +11,10 @@
   ],
   "extensionPack": [
     "bung87.rails",
-    "rebornix.ruby",
+    "Shopify.ruby-lsp",
     "Hridoy.rails-snippets",
     "castwide.solargraph",
-    "wingrunr21.vscode-ruby",
-    "bung87.vscode-gemfile"
+    "bung87.vscode-gemfile",
+    "formulahendry.code-runner"
   ]
 }

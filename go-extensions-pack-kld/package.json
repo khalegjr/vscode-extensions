@@ -1,0 +1,17 @@
+{
+  "name": "c-extensions-pack-kld",
+  "displayName": "Extensions Pack KhaleDev - Go",
+  "description": "Extensions for Go development environment",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "golang.go",
+    "formulahendry.code-runner",
+    "SonarSource.sonarlint-vscode"
+  ]
+}

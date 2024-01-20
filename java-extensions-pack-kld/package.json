@@ -1,8 +1,8 @@
 {
   "name": "java-extensions-pack-kld",
-  "displayName": "Java Extensions Pack - KLD",
+  "displayName": "Extensions Pack KhaleDev - Java",
   "description": "Extensions for Java development environment",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -10,8 +10,16 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "vscjava.vscode-java-pack",
+    "redhat.java",
     "shengchen.vscode-checkstyle",
-    "vmware.vscode-boot-dev-pack"
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-maven",
+    "vscjava.vscode-java-dependency",
+    "redhat.fabric8-analytics",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "SonarSource.sonarlint-vscode",
+    "vscjava.vscode-java-test",
+    "redhat.vscode-xml",
+    "formulahendry.code-runner"
   ]
 }

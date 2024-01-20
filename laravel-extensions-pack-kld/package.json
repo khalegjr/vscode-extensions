@@ -1,8 +1,8 @@
 {
   "name": "laravel-extensions-pack-kld",
-  "displayName": "Laravel Extensions Pack - KLD",
+  "displayName": "Extensions Pack KhaleDev - Laravel",
   "description": "Extensions for Laravel development environment",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -10,12 +10,14 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "shufo.vscode-blade-formatter",
+    "mikestead.dotenv",
     "onecentlin.laravel-blade",
-    "austenc.laravel-blade-spacer",
+    "onecentlin.laravel5-snippets",
+    "ryannaddy.laravel-artisan",
     "amiralizadeh9480.laravel-extra-intellisense",
     "absszero.vscode-laravel-goto",
-    "onecentlin.laravel5-snippets",
+    "shufo.vscode-blade-formatter",
+    "austenc.laravel-blade-spacer",
     "cierra.livewire-vscode"
   ]
 }

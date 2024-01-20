@@ -1,7 +1,7 @@
 {
   "name": "docker-extensions-pack-kld",
-  "displayName": "Extensions Pack KhaleDev - Docker and Kubernetes",
-  "description": "Extensions for Docker and Kubernetes development environment",
+  "displayName": "Extensions Pack KhaleDev - Devops",
+  "description": "Extensions for Devops development environment",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
@@ -12,6 +12,10 @@
   "extensionPack": [
     "ms-azuretools.vscode-docker",
     "p1c2u.docker-compose",
-    "ms-kubernetes-tools.vscode-kubernetes-tools"
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "redhat.ansible",
+    "redhat.vscode-xml",
+    "DotJoshJohnson.xml",
+    "redhat.vscode-yaml"
   ]
 }

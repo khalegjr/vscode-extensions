@@ -1,8 +1,8 @@
 {
   "name": "vue-extensions-pack-kld",
-  "displayName": "Vue Extensions Pack - KLD",
+  "displayName": "Extensions Pack KhaleDev - Vue",
   "description": "Extensions for Vue development environment",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },

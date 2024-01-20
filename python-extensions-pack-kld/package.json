@@ -1,8 +1,8 @@
 {
   "name": "python-extensions-pack-kld",
-  "displayName": "Python Extensions Pack - KLD",
+  "displayName": "Extensions Pack KhaleDev - Python",
   "description": "Extensions for Python development environment",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -10,12 +10,16 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "njpwerner.autodocstring",
-    "ms-python.flake8",
-    "ms-python.isort",
     "ms-python.python",
+    "njpwerner.autodocstring",
+    "ms-python.black-formatter",
     "ms-python.vscode-pylance",
     "EricSia.pythonsnippets3",
-    "donjayamanne.python-environment-manager"
+    "SonarSource.sonarlint-vscode",
+    "ms-python.flake8",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "ms-python.isort",
+    "donjayamanne.python-environment-manager",
+    "formulahendry.code-runner"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "name": "rust-extensions-pack-kld",
-  "displayName": "Rust Extensions Pack - KLD",
+  "displayName": "Extensions Pack KhaleDev - Rust",
   "description": "Extensions for Rust development environment",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -10,7 +10,10 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "rust-lang.rust-analyzer",
     "dustypomerleau.rust-syntax",
-    "rust-lang.rust-analyzer"
+    "serayuzgur.crates",
+    "tamasfe.even-better-toml",
+    "formulahendry.code-runner"
   ]
 }

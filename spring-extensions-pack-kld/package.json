@@ -1,0 +1,22 @@
+{
+  "name": "spring-extensions-pack-kld",
+  "displayName": "Extensions Pack KhaleDev - Spring",
+  "description": "Extensions for Spring development environment",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "redhat.java",
+    "vscjava.vscode-java-debug",
+    "vmware.vscode-spring-boot",
+    "vscjava.vscode-spring-boot-dashboard",
+    "vscjava.vscode-spring-initializr",
+    "vscjava.vscode-lombok",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml"
+  ]
+}

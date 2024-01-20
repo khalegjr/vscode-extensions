@@ -1,8 +1,8 @@
 {
   "name": "js-extensions-pack-kld",
-  "displayName": "Javascript Extensions Pack - KLD",
-  "description": "Extensions for Javascript development environment",
-  "version": "0.2.0",
+  "displayName": "Extensions Pack KhaleDev - Javascript / Typescript",
+  "description": "Extensions for Javascript / Typescript development environment",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -10,18 +10,17 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "steoates.autoimport",
     "WallabyJs.console-ninja",
-    "paulmolluzzo.convert-css-in-js",
     "dbaeumer.vscode-eslint",
     "capaj.vscode-exports-autocomplete",
-    "wix.vscode-import-cost",
     "xabikos.JavaScriptSnippets",
     "stringham.move-ts",
     "christian-kohler.npm-intellisense",
-    "yoavbls.pretty-ts-errors",
-    "sketchbuch.vsc-quokka-statusbar",
-    "WallabyJs.quokka-vscode",
-    "mattpocock.ts-error-translator"
+    "esbenp.prettier-vscode",
+    "YoavBls.pretty-ts-errors",
+    "SonarSource.sonarlint-vscode",
+    "paulmolluzzo.convert-css-in-js",
+    "mattpocock.ts-error-translator",
+    "formulahendry.code-runner"
   ]
 }

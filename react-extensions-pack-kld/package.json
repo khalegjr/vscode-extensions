@@ -1,8 +1,8 @@
 {
   "name": "react-extensions-pack-kld",
-  "displayName": "React Extensions Pack - KLD",
+  "displayName": "Extensions Pack KhaleDev - React",
   "description": "Extensions for React development environment",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -10,13 +10,14 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "clinyong.vscode-css-modules",
     "dsznajder.es7-react-js-snippets",
-    "unifiedjs.vscode-mdx",
-    "Prisma.prisma",
+    "esbenp.prettier-vscode",
     "msjsdiag.vscode-react-native",
     "ugross.vscode-react-snippets",
     "dannyconnell.split-html-attributes",
-    "styled-components.vscode-styled-components"
+    "SonarSource.sonarlint-vscode",
+    "styled-components.vscode-styled-components",
+    "unifiedjs.vscode-mdx",
+    "mikestead.dotenv"
   ]
 }

@@ -1,0 +1,46 @@
+{
+  "name": "manager-extensions-pack-kld",
+  "displayName": "Extensions Pack KhaleDev - Projects Manager and General Purpose",
+  "description": "Extensions for Projects Management and general purpose",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "MS-CEINTL.vscode-language-pack-pt-BR",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+    "patbenatar.advanced-new-file",
+    "JannisX11.batch-rename-extension",
+    "alefragnani.Bookmarks",
+    "aaron-bond.better-comments",
+    "wmaurer.change-case",
+    "adpyke.codesnap",
+    "mrmlnc.vscode-duplicate",
+    "EditorConfig.EditorConfig",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "IBM.output-colorizer",
+    "christian-kohler.path-intellisense",
+    "johnpapa.vscode-peacock",
+    "lkytal.pomodoro",
+    "Gruntfuggly.todo-tree",
+    "alefragnani.project-manager",
+    "chrmarti.regex",
+    "jock.svg",
+    "WakaTime.vscode-wakatime",
+    "ms-vscode-remote.remote-ssh",
+    "sleistner.vscode-fileutils",
+    "kamikillerto.vscode-colorize",
+    "SonarSource.sonarlint-vscode",
+    "redhat.vscode-yaml",
+    "redhat.vscode-xml",
+    "esbenp.prettier-vscode",
+    "nickdemayo.vscode-json-editor",
+    "quicktype.quicktype",
+    "phplasma.csv-to-table",
+    "mechatroner.rainbow-csv"
+  ]
+}

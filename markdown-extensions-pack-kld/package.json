@@ -1,8 +1,8 @@
 {
   "name": "markdown-extensions-pack-kld",
-  "displayName": "Markdown Extensions Pack - KLD",
+  "displayName": "Extensions Pack KhaleDev - Markdown",
   "description": "Extensions for Markdown development environment",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -12,6 +12,8 @@
   "extensionPack": [
     "yzhang.markdown-all-in-one",
     "bierner.markdown-preview-github-styles",
-    "DavidAnson.vscode-markdownlint"
+    "DavidAnson.vscode-markdownlint",
+    "unifiedjs.vscode-mdx",
+    "docsmsft.docs-markdown"
   ]
 }

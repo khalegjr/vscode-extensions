@@ -12,6 +12,7 @@
   "extensionPack": [
     "Dart-Code.flutter",
     "alexisvt.flutter-snippets",
-    "Dart-Code.dart-code"
+    "Dart-Code.dart-code",
+    "circlecodesolution.ccs-flutter-color"
   ]
 }

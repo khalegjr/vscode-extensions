@@ -1,0 +1,23 @@
+{
+  "name": "docker-extensions-pack-kld",
+  "displayName": "Extensions Pack KhaleDev - Devops",
+  "description": "Extensions for Devops development environment",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "BeardedBear.beardedicons",
+    "PKief.material-icon-theme",
+    "equinusocio.vsc-material-theme-icons",
+    "whizkydee.material-palenight-theme",
+    "akamud.vscode-theme-onedark",
+    "jprestidge.theme-material-theme",
+    "felipe-mendes.slack-theme",
+    "tinkertrain.theme-panda",
+    "ChirtleLovesDolls.nebula-theme"
+  ]
+}

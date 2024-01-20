@@ -13,6 +13,7 @@
     "ms-dotnettools.csharp",
     "twxs.cmake",
     "ms-dotnettools.dotnet-maui",
-    "ms-vscode.makefile-tools"
+    "ms-vscode.makefile-tools",
+    "formulahendry.code-runner"
   ]
 }

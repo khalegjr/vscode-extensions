@@ -16,6 +16,7 @@
     "SimonTest.simontest",
     "stringham.move-ts",
     "cyrilletuzi.angular-schematics",
+    "Orta.vscode-jest",
     "rctay.karma-problem-matcher",
     "alexiv.vscode-angular2-files",
     "obenjiro.arrr",

@@ -1,8 +1,8 @@
 {
   "name": "html-css-extensions-pack-kld",
-  "displayName": "HTML & CSS Extensions Pack - KLD",
+  "displayName": "Extensions Pack KhaleDev - HTML & CSS",
   "description": "Extensions for HTML & CSS development environment",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -10,13 +10,17 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
     "clinyong.vscode-css-modules",
     "pranaygp.vscode-css-peek",
-    "felixfbecker.css-stacking-contexts",
-    "vincaslt.highlight-matching-tag",
-    "sidthesloth.html5-boilerplate",
+    "paulmolluzzo.convert-css-in-js",
     "ecmel.vscode-html-css",
-    "HTMLHint.vscode-htmlhint",
-    "Zignd.html-css-class-completion"
+    "solnurkarim.html-to-css-autocompletion",
+    "Zignd.html-css-class-completion",
+    "esbenp.prettier-vscode",
+    "diz.ecsstractor-port",
+    "anseki.vscode-color",
+    "formulahendry.code-runner"
   ]
 }
