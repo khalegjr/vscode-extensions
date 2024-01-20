@@ -3,6 +3,10 @@
   "displayName": "Extensions Pack KhaleDev - Tailwindcss",
   "description": "Extensions for Tailwindcss development environment",
   "version": "1.0.0",
+  "repository": {
+    "directory": "tailwind-extensions-pack-kld",
+    "url": "https://github.com/khalegjr/vscode-extensions"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },

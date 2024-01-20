@@ -1,8 +1,12 @@
 {
-  "name": "c-extensions-pack-kld",
+  "name": "go-extensions-pack-kld",
   "displayName": "Extensions Pack KhaleDev - Go",
   "description": "Extensions for Go development environment",
   "version": "1.0.0",
+  "repository": {
+    "directory": "go-extensions-pack-kld",
+    "url": "https://github.com/khalegjr/vscode-extensions"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },

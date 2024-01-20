@@ -3,6 +3,10 @@
   "displayName": "Extensions Pack KhaleDev - Python",
   "description": "Extensions for Python development environment",
   "version": "1.0.0",
+  "repository": {
+    "directory": "python-extensions-pack-kld",
+    "url": "https://github.com/khalegjr/vscode-extensions"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },

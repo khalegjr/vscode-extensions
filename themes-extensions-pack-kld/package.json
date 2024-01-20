@@ -1,8 +1,12 @@
 {
-  "name": "docker-extensions-pack-kld",
-  "displayName": "Extensions Pack KhaleDev - Devops",
-  "description": "Extensions for Devops development environment",
+  "name": "themes-extensions-pack-kld",
+  "displayName": "Extensions Pack KhaleDev - Themes",
+  "description": "Extensions for Themes to VSCode",
   "version": "1.0.0",
+  "repository": {
+    "directory": "themes-extensions-pack-kld",
+    "url": "https://github.com/khalegjr/vscode-extensions"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },

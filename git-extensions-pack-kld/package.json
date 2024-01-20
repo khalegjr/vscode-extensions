@@ -3,6 +3,10 @@
   "displayName": "Extensions Pack KhaleDev - Git, GitHub, GitLab",
   "description": "Extensions for Git environment",
   "version": "1.0.0",
+  "repository": {
+    "directory": "git-extensions-pack-kld",
+    "url": "https://github.com/khalegjr/vscode-extensions"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },

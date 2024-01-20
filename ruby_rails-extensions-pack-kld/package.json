@@ -3,6 +3,10 @@
   "displayName": "Extensions Pack KhaleDev - Ruby/Rails",
   "description": "Extensions for Ruby/Rails development environment",
   "version": "1.0.0",
+  "repository": {
+    "directory": "ruby_rails-extensions-pack-kld",
+    "url": "https://github.com/khalegjr/vscode-extensions"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },

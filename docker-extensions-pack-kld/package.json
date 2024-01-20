@@ -3,6 +3,10 @@
   "displayName": "Extensions Pack KhaleDev - Devops",
   "description": "Extensions for Devops development environment",
   "version": "1.0.0",
+  "repository": {
+    "directory": "docker-extensions-pack-kld",
+    "url": "https://github.com/khalegjr/vscode-extensions"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },

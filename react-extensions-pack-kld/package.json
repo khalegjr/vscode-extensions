@@ -3,6 +3,10 @@
   "displayName": "Extensions Pack KhaleDev - React",
   "description": "Extensions for React development environment",
   "version": "1.0.0",
+  "repository": {
+    "directory": "react-extensions-pack-kld",
+    "url": "https://github.com/khalegjr/vscode-extensions"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
