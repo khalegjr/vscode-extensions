@@ -23,7 +23,6 @@
     "VisualStudioExptTeam.vscodeintellicode",
     "SonarSource.sonarlint-vscode",
     "vscjava.vscode-java-test",
-    "redhat.vscode-xml",
     "formulahendry.code-runner"
   ]
 }

@@ -14,9 +14,9 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "ms-dotnettools.vscode-dotnet-runtime",
     "ms-dotnettools.csharp",
     "twxs.cmake",
-    "ms-dotnettools.dotnet-maui",
     "ms-vscode.makefile-tools",
     "formulahendry.code-runner"
   ]

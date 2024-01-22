@@ -14,13 +14,9 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "redhat.java",
-    "vscjava.vscode-java-debug",
     "vmware.vscode-spring-boot",
     "vscjava.vscode-spring-boot-dashboard",
     "vscjava.vscode-spring-initializr",
-    "vscjava.vscode-lombok",
-    "redhat.vscode-xml",
-    "redhat.vscode-yaml"
+    "vscjava.vscode-lombok"
   ]
 }

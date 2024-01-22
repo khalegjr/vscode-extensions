@@ -272,3 +272,28 @@ Para alguns casos criei pacotes que agrupam extensões referentes a uma linguage
 5. [Developer&#39;s theme](https://marketplace.visualstudio.com/items?itemName=Rajeshwaran.developer-theme-dark)
 6. [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 7. [Gruvbox Theme](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox)
+
+
+## Sequencia de instalação recomendada
+
+1. Manager
+2. Python
+3. Docker
+4. Java
+5. Javascript
+6. Git
+7. C
+8. HTML
+9. Markdown
+10. PHP
+11. Laravel
+12. Angular
+13. React
+14. Spring
+15. Vue
+16. Flutter
+17. Go
+18. Ruby
+19. Rust
+20. Tailwind
+21. Themes
