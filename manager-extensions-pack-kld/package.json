@@ -14,7 +14,6 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "MS-CEINTL.vscode-language-pack-pt-BR",
     "streetsidesoftware.code-spell-checker",
     "streetsidesoftware.code-spell-checker-portuguese-brazilian",
     "patbenatar.advanced-new-file",
@@ -39,8 +38,6 @@
     "sleistner.vscode-fileutils",
     "kamikillerto.vscode-colorize",
     "SonarSource.sonarlint-vscode",
-    "redhat.vscode-yaml",
-    "redhat.vscode-xml",
     "esbenp.prettier-vscode",
     "nickdemayo.vscode-json-editor",
     "quicktype.quicktype",

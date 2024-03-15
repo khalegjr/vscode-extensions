@@ -15,6 +15,7 @@
   ],
   "extensionPack": [
     "ms-python.python",
+    "ms-python.debugpy",
     "njpwerner.autodocstring",
     "ms-python.black-formatter",
     "ms-python.vscode-pylance",

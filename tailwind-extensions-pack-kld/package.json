@@ -18,6 +18,7 @@
     "bradlc.vscode-tailwindcss",
     "alfredbirk.tailwind-documentation",
     "bourhaouta.tailwindshades",
-    "heybourn.headwind"
+    "heybourn.headwind",
+    "KalimahApps.tailwind-config-viewer"
   ]
 }
