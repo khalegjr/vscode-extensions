@@ -15,7 +15,6 @@
   ],
   "extensionPack": [
     "dannyconnell.split-html-attributes",
-    "Vue.vscode-typescript-vue-plugin",
     "Vue.volar"
   ]
 }
